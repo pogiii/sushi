@@ -18,15 +18,17 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
-    "@tamagui/config": "^1.98.0",
-    "@tamagui/next-plugin": "^1.98.0",
-    "@tamagui/next-theme": "^1.98.0",
+    "@tamagui/config": "^1.98.1",
+    "@tamagui/lucide-icons": "^1.98.1",
+    "@tamagui/next-plugin": "^1.98.1",
+    "@tamagui/next-theme": "^1.98.1",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tamagui": "^1.98.0"
+    "react-native-svg": "^15.3.0",
+    "tamagui": "^1.98.1"
   },
   "devDependencies": {
     "@types/node": "18.11.10",

@@ -4,6 +4,7 @@ title: Forms
 
 import { LabeledInput, IconedInput } from "../../registery/components/inputs"
 import ComponentShowcase from "../../components/ComponentShowcase"
+import { Star, User } from "@tamagui/lucide-icons"
 
 # Forms
 
@@ -13,6 +14,15 @@ import ComponentShowcase from "../../components/ComponentShowcase"
 </ComponentShowcase>
 
 ### Input with Icon
+##### Input with Icon before
 <ComponentShowcase>
-<IconedInput id="labeled-input" label="Labeled Input"/>
+<IconedInput iconBefore={<Star/>} id="labeled-input" label="Labeled Input"/>
+</ComponentShowcase>
+##### Input with Icon After
+<ComponentShowcase>
+<IconedInput iconAfter={<User/>} id="labeled-input" label="Labeled Input"/>
+</ComponentShowcase>
+##### Input with Icon Both sides
+<ComponentShowcase>
+<IconedInput iconBefore={<Star/>} iconAfter={<User/>} id="labeled-input" label="Labeled Input"/>
 </ComponentShowcase>
