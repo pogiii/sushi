@@ -6,7 +6,7 @@ type ComponentShowcaseProps = {
 export default function ComponentShowcase(props: ComponentShowcaseProps) {
     const { children } = props;
     return (
-        <Stack width={'100%'} height={"auto"} justifyContent="center" alignItems="center">
+        <Stack width={'100%'} height={"auto"} padding={"16px"} justifyContent="center" alignItems="center">
             {children}
         </Stack>
     )

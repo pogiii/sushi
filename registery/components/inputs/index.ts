@@ -1,4 +1,4 @@
 import { LabeledInput } from "./LabeledInput"
 import { IconedInput } from "./IconedInput"
-
-export { LabeledInput, IconedInput }
+import { OTPInput } from "./OTPInput"
+export { LabeledInput, IconedInput, OTPInput }
