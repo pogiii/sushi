@@ -1880,9 +1880,9 @@ var require_Stacks = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_5n3i7fs67mifk6zawzy6aq6d6q/node_modules/@tamagui/get-token/dist/cjs/index.js
+// node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_umiohmzqyrde67zkkkrjyydngy/node_modules/@tamagui/get-token/dist/cjs/index.js
 var require_cjs13 = __commonJS({
-  "node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_5n3i7fs67mifk6zawzy6aq6d6q/node_modules/@tamagui/get-token/dist/cjs/index.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_umiohmzqyrde67zkkkrjyydngy/node_modules/@tamagui/get-token/dist/cjs/index.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -1941,9 +1941,9 @@ var require_cjs13 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_dahbwpwu3hi4hhlq4lzooyfuoq/node_modules/@tamagui/get-button-sized/dist/cjs/index.js
+// node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_ctsqvd2eaozgbfxaitufajdwei/node_modules/@tamagui/get-button-sized/dist/cjs/index.js
 var require_cjs14 = __commonJS({
-  "node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_dahbwpwu3hi4hhlq4lzooyfuoq/node_modules/@tamagui/get-button-sized/dist/cjs/index.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_ctsqvd2eaozgbfxaitufajdwei/node_modules/@tamagui/get-button-sized/dist/cjs/index.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -2342,9 +2342,9 @@ var require_cjs16 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/SizableText.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/SizableText.js
 var require_SizableText = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/SizableText.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/SizableText.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -2392,9 +2392,9 @@ var require_SizableText = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/Paragraph.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/Paragraph.js
 var require_Paragraph = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/Paragraph.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/Paragraph.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -2428,9 +2428,9 @@ var require_Paragraph = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/Headings.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/Headings.js
 var require_Headings = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/Headings.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/Headings.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -2500,9 +2500,9 @@ var require_Headings = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/wrapChildrenInText.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/wrapChildrenInText.js
 var require_wrapChildrenInText = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/wrapChildrenInText.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/wrapChildrenInText.js"(exports2, module2) {
     var __create2 = Object.create;
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
@@ -2564,9 +2564,9 @@ var require_wrapChildrenInText = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/types.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/types.js
 var require_types3 = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/types.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/types.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -2583,9 +2583,9 @@ var require_types3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/index.js
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/index.js
 var require_cjs17 = __commonJS({
-  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/cjs/index.js"(exports2, module2) {
+  "node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/cjs/index.js"(exports2, module2) {
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
     var __getOwnPropNames2 = Object.getOwnPropertyNames;
@@ -3651,9 +3651,9 @@ var init_tslib_es6 = __esm({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/constants.js
+// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/constants.js
 var require_constants2 = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/constants.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/constants.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.removedBarSizeVariable = exports2.noScrollbarsClassName = exports2.fullWidthClassName = exports2.zeroRightClassName = void 0;
@@ -3664,9 +3664,9 @@ var require_constants2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/assignRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/assignRef.js
 var require_assignRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/assignRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/assignRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.assignRef = void 0;
@@ -3683,9 +3683,9 @@ var require_assignRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useRef.js
 var require_useRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useCallbackRef = void 0;
@@ -3720,9 +3720,9 @@ var require_useRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/createRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/createRef.js
 var require_createRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/createRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/createRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createCallbackRef = void 0;
@@ -3746,9 +3746,9 @@ var require_createRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/mergeRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/mergeRef.js
 var require_mergeRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/mergeRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/mergeRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.mergeRefs = void 0;
@@ -3766,9 +3766,9 @@ var require_mergeRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useMergeRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useMergeRef.js
 var require_useMergeRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useMergeRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useMergeRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useMergeRefs = void 0;
@@ -3810,9 +3810,9 @@ var require_useMergeRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useTransformRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useTransformRef.js
 var require_useTransformRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useTransformRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/useTransformRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useTransformRef = void 0;
@@ -3828,9 +3828,9 @@ var require_useTransformRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/transformRef.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/transformRef.js
 var require_transformRef = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/transformRef.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/transformRef.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.transformRef = void 0;
@@ -3846,9 +3846,9 @@ var require_transformRef = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/refToCallback.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/refToCallback.js
 var require_refToCallback = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/refToCallback.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/refToCallback.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useRefToCallback = exports2.refToCallback = void 0;
@@ -3885,9 +3885,9 @@ var require_refToCallback = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/index.js
+// node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/index.js
 var require_es52 = __commonJS({
-  "node_modules/.pnpm/use-callback-ref@1.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/index.js"(exports2) {
+  "node_modules/.pnpm/use-callback-ref@1.3.2_@types+react@18.3.2_react@18.2.0/node_modules/use-callback-ref/dist/es5/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useRefToCallback = exports2.refToCallback = exports2.transformRef = exports2.useTransformRef = exports2.useMergeRefs = exports2.mergeRefs = exports2.createCallbackRef = exports2.useCallbackRef = exports2.assignRef = void 0;
@@ -3936,9 +3936,9 @@ var require_node = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/env.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/env.js
 var require_env = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/env.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/env.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.env = void 0;
@@ -3950,9 +3950,9 @@ var require_env = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hook.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hook.js
 var require_hook = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hook.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hook.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.useSidecar = void 0;
@@ -4011,9 +4011,9 @@ var require_hook = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hoc.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hoc.js
 var require_hoc = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hoc.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/hoc.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.sidecar = void 0;
@@ -4037,9 +4037,9 @@ var require_hoc = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/config.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/config.js
 var require_config = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/config.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/config.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.setConfig = exports2.config = void 0;
@@ -4055,9 +4055,9 @@ var require_config = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/medium.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/medium.js
 var require_medium = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/medium.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/medium.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.createSidecarMedium = exports2.createMedium = void 0;
@@ -4161,9 +4161,9 @@ var require_medium = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/renderProp.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/renderProp.js
 var require_renderProp = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/renderProp.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/renderProp.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.renderCar = void 0;
@@ -4214,9 +4214,9 @@ var require_renderProp = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/exports.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/exports.js
 var require_exports = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/exports.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/exports.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.exportSidecar = void 0;
@@ -4243,9 +4243,9 @@ var require_exports = __commonJS({
   }
 });
 
-// node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/index.js
+// node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/index.js
 var require_es53 = __commonJS({
-  "node_modules/.pnpm/use-sidecar@1.1.2_react@18.2.0/node_modules/use-sidecar/dist/es5/index.js"(exports2) {
+  "node_modules/.pnpm/use-sidecar@1.1.2_@types+react@18.3.2_react@18.2.0/node_modules/use-sidecar/dist/es5/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.exportSidecar = exports2.renderCar = exports2.createSidecarMedium = exports2.createMedium = exports2.setConfig = exports2.useSidecar = exports2.sidecar = void 0;
@@ -4279,9 +4279,9 @@ var require_es53 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/medium.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/medium.js
 var require_medium2 = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/medium.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/medium.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.effectCar = void 0;
@@ -4290,9 +4290,9 @@ var require_medium2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/UI.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/UI.js
 var require_UI = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/UI.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/UI.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RemoveScroll = void 0;
@@ -4356,9 +4356,9 @@ var require_es54 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/singleton.js
+// node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/singleton.js
 var require_singleton = __commonJS({
-  "node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/singleton.js"(exports2) {
+  "node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/singleton.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.stylesheetSingleton = void 0;
@@ -4414,9 +4414,9 @@ var require_singleton = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/hook.js
+// node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/hook.js
 var require_hook2 = __commonJS({
-  "node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/hook.js"(exports2) {
+  "node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/hook.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.styleHookSingleton = void 0;
@@ -4438,9 +4438,9 @@ var require_hook2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/component.js
+// node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/component.js
 var require_component = __commonJS({
-  "node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/component.js"(exports2) {
+  "node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/component.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.styleSingleton = void 0;
@@ -4458,9 +4458,9 @@ var require_component = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/index.js
+// node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/index.js
 var require_es55 = __commonJS({
-  "node_modules/.pnpm/react-style-singleton@2.2.1_react@18.2.0/node_modules/react-style-singleton/dist/es5/index.js"(exports2) {
+  "node_modules/.pnpm/react-style-singleton@2.2.1_@types+react@18.3.2_react@18.2.0/node_modules/react-style-singleton/dist/es5/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.styleHookSingleton = exports2.stylesheetSingleton = exports2.styleSingleton = void 0;
@@ -4479,9 +4479,9 @@ var require_es55 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/utils.js
+// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/utils.js
 var require_utils = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/utils.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/utils.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getGapWidth = exports2.zeroGap = void 0;
@@ -4522,9 +4522,9 @@ var require_utils = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/component.js
+// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/component.js
 var require_component2 = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/component.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/component.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RemoveScrollBar = exports2.useLockAttribute = exports2.lockAttribute = void 0;
@@ -4576,9 +4576,9 @@ var require_component2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/index.js
+// node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/index.js
 var require_es56 = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/index.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll-bar@2.3.6_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll-bar/dist/es5/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getGapWidth = exports2.removedBarSizeVariable = exports2.noScrollbarsClassName = exports2.fullWidthClassName = exports2.zeroRightClassName = exports2.RemoveScrollBar = void 0;
@@ -4606,9 +4606,9 @@ var require_es56 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/aggresiveCapture.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/aggresiveCapture.js
 var require_aggresiveCapture = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/aggresiveCapture.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/aggresiveCapture.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.nonPassive = void 0;
@@ -4632,9 +4632,9 @@ var require_aggresiveCapture = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/handleScroll.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/handleScroll.js
 var require_handleScroll = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/handleScroll.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/handleScroll.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.handleScroll = exports2.locationCouldBeScrolled = void 0;
@@ -4733,9 +4733,9 @@ var require_handleScroll = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/SideEffect.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/SideEffect.js
 var require_SideEffect = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/SideEffect.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/SideEffect.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RemoveScrollSideCar = exports2.getDeltaXY = exports2.getTouchXY = void 0;
@@ -4906,9 +4906,9 @@ var require_SideEffect = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/sidecar.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/sidecar.js
 var require_sidecar = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/sidecar.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/sidecar.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var use_sidecar_1 = require_es53();
@@ -4918,9 +4918,9 @@ var require_sidecar = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/Combination.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/Combination.js
 var require_Combination = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/Combination.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/Combination.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var tslib_1 = (init_tslib_es6(), __toCommonJS(tslib_es6_exports));
@@ -4935,9 +4935,9 @@ var require_Combination = __commonJS({
   }
 });
 
-// node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/index.js
+// node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/index.js
 var require_es57 = __commonJS({
-  "node_modules/.pnpm/react-remove-scroll@2.5.5_react@18.2.0/node_modules/react-remove-scroll/dist/es5/index.js"(exports2) {
+  "node_modules/.pnpm/react-remove-scroll@2.5.5_@types+react@18.3.2_react@18.2.0/node_modules/react-remove-scroll/dist/es5/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.RemoveScroll = void 0;
@@ -26020,10 +26020,10 @@ var require_arrayToTree_min = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zustand@4.5.2_react@18.2.0/node_modules/zustand/esm/vanilla.mjs
+// node_modules/.pnpm/zustand@4.5.2_@types+react@18.3.2_react@18.2.0/node_modules/zustand/esm/vanilla.mjs
 var import_meta, createStoreImpl, createStore;
 var init_vanilla = __esm({
-  "node_modules/.pnpm/zustand@4.5.2_react@18.2.0/node_modules/zustand/esm/vanilla.mjs"() {
+  "node_modules/.pnpm/zustand@4.5.2_@types+react@18.3.2_react@18.2.0/node_modules/zustand/esm/vanilla.mjs"() {
     import_meta = {};
     createStoreImpl = /* @__PURE__ */ __name((createState) => {
       let state;
@@ -26417,7 +26417,7 @@ var require_with_selector = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zustand@4.5.2_react@18.2.0/node_modules/zustand/esm/index.js
+// node_modules/.pnpm/zustand@4.5.2_@types+react@18.3.2_react@18.2.0/node_modules/zustand/esm/index.js
 var esm_exports = {};
 __export(esm_exports, {
   create: () => create,
@@ -26444,7 +26444,7 @@ function useStore(api, selector = identity, equalityFn) {
 }
 var import_react34, import_with_selector, useDebugValue, useSyncExternalStoreWithSelector, didWarnAboutEqualityFn, identity, createImpl, create, react;
 var init_esm = __esm({
-  "node_modules/.pnpm/zustand@4.5.2_react@18.2.0/node_modules/zustand/esm/index.js"() {
+  "node_modules/.pnpm/zustand@4.5.2_@types+react@18.3.2_react@18.2.0/node_modules/zustand/esm/index.js"() {
     init_vanilla();
     init_vanilla();
     import_react34 = __toESM(require("react"));
@@ -26477,9 +26477,9 @@ var init_esm = __esm({
   }
 });
 
-// node_modules/.pnpm/reforest@0.13.0_react@18.2.0/node_modules/reforest/dist/index.js
+// node_modules/.pnpm/reforest@0.13.0_@types+react@18.3.2_react@18.2.0/node_modules/reforest/dist/index.js
 var require_dist = __commonJS({
-  "node_modules/.pnpm/reforest@0.13.0_react@18.2.0/node_modules/reforest/dist/index.js"(exports2, module2) {
+  "node_modules/.pnpm/reforest@0.13.0_@types+react@18.3.2_react@18.2.0/node_modules/reforest/dist/index.js"(exports2, module2) {
     var __create2 = Object.create;
     var __defProp2 = Object.defineProperty;
     var __getOwnPropDesc2 = Object.getOwnPropertyDescriptor;
@@ -27399,7 +27399,7 @@ var require_cjs21 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/index.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/index.mjs
 var esm_exports2 = {};
 __export(esm_exports2, {
   ACTIONS: () => ACTIONS,
@@ -28235,7 +28235,7 @@ function useComposedRefs(...refs) {
 }
 __name(useComposedRefs, "useComposedRefs");
 
-// node_modules/.pnpm/@tamagui+alert-dialog@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7_ezquddghxr7puatvatvltse4te/node_modules/@tamagui/alert-dialog/dist/esm/AlertDialog.mjs
+// node_modules/.pnpm/@tamagui+alert-dialog@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@_pms2qstpfx7v6sr23k532dn2oa/node_modules/@tamagui/alert-dialog/dist/esm/AlertDialog.mjs
 var import_core15 = require("@tamagui/core");
 
 // node_modules/.pnpm/@tamagui+create-context@1.98.1/node_modules/@tamagui/create-context/dist/esm/create-context.mjs
@@ -28556,7 +28556,7 @@ AnimatePresence.displayName = "AnimatePresence";
 // node_modules/.pnpm/@tamagui+aria-hidden@1.98.1/node_modules/@tamagui/aria-hidden/dist/esm/AriaHidden.mjs
 var import_aria_hidden = __toESM(require_es5(), 1);
 
-// node_modules/.pnpm/@tamagui+dialog@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__snu643uwd55ccgnwvmxl5opswq/node_modules/@tamagui/dialog/dist/esm/Dialog.mjs
+// node_modules/.pnpm/@tamagui+dialog@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_jo3bwg4446zm3bar72pygipad4/node_modules/@tamagui/dialog/dist/esm/Dialog.mjs
 var import_core14 = require("@tamagui/core");
 
 // node_modules/.pnpm/@tamagui+use-callback-ref@1.98.1/node_modules/@tamagui/use-callback-ref/dist/esm/index.mjs
@@ -29052,7 +29052,7 @@ ZStack.displayName = "ZStack";
 // node_modules/.pnpm/@tamagui+stacks@1.98.1/node_modules/@tamagui/stacks/dist/esm/SizableStack.mjs
 var import_core4 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_5n3i7fs67mifk6zawzy6aq6d6q/node_modules/@tamagui/get-token/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+get-token@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_umiohmzqyrde67zkkkrjyydngy/node_modules/@tamagui/get-token/dist/esm/index.mjs
 var import_web = require("@tamagui/core");
 var defaultOptions = {
   shift: 0,
@@ -29086,7 +29086,7 @@ var stepTokenUpOrDown = /* @__PURE__ */ __name((type, current, options = default
 }, "stepTokenUpOrDown");
 var getTokenRelative = stepTokenUpOrDown;
 
-// node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_dahbwpwu3hi4hhlq4lzooyfuoq/node_modules/@tamagui/get-button-sized/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+get-button-sized@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.2_ctsqvd2eaozgbfxaitufajdwei/node_modules/@tamagui/get-button-sized/dist/esm/index.mjs
 var getButtonSized = /* @__PURE__ */ __name((val, {
   tokens,
   props
@@ -29279,7 +29279,7 @@ var ThemeableStack = (0, import_core5.styled)(YStack, {
 var import_react13 = require("react");
 var ButtonNestingContext = (0, import_react13.createContext)(false);
 
-// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_o5njxraspvqqpofkpdtbvnd66u/node_modules/@tamagui/portal/dist/esm/Portal.mjs
+// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_pzrh4diyhuwrnzfee6qfrbaveu/node_modules/@tamagui/portal/dist/esm/Portal.mjs
 var React7 = __toESM(require("react"), 1);
 var import_react_dom = require("react-dom");
 var import_jsx_runtime8 = require("react/jsx-runtime");
@@ -29301,7 +29301,7 @@ var Portal = React7.memo(({
   }, [host]), hostElement && props.children ? (0, import_react_dom.createPortal)(contents, hostElement) : null;
 });
 
-// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_o5njxraspvqqpofkpdtbvnd66u/node_modules/@tamagui/portal/dist/esm/GorhomPortal.mjs
+// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_pzrh4diyhuwrnzfee6qfrbaveu/node_modules/@tamagui/portal/dist/esm/GorhomPortal.mjs
 var import_core6 = require("@tamagui/core");
 
 // node_modules/.pnpm/@tamagui+use-did-finish-ssr@1.98.1/node_modules/@tamagui/use-did-finish-ssr/dist/esm/index.mjs
@@ -29314,7 +29314,7 @@ function useDidFinishSSR(value) {
 }
 __name(useDidFinishSSR, "useDidFinishSSR");
 
-// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_o5njxraspvqqpofkpdtbvnd66u/node_modules/@tamagui/portal/dist/esm/GorhomPortal.mjs
+// node_modules/.pnpm/@tamagui+portal@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_pzrh4diyhuwrnzfee6qfrbaveu/node_modules/@tamagui/portal/dist/esm/GorhomPortal.mjs
 var import_react15 = __toESM(require("react"), 1);
 var import_jsx_runtime9 = require("react/jsx-runtime");
 var ACTIONS = /* @__PURE__ */ ((ACTIONS2) => (ACTIONS2[ACTIONS2.REGISTER_HOST = 0] = "REGISTER_HOST", ACTIONS2[ACTIONS2.DEREGISTER_HOST = 1] = "DEREGISTER_HOST", ACTIONS2[ACTIONS2.ADD_UPDATE_PORTAL = 2] = "ADD_UPDATE_PORTAL", ACTIONS2[ACTIONS2.REMOVE_PORTAL = 3] = "REMOVE_PORTAL", ACTIONS2))(ACTIONS || {});
@@ -29478,7 +29478,7 @@ var PortalComponent = /* @__PURE__ */ __name((props) => {
 var PortalItem = (0, import_react15.memo)(PortalComponent);
 PortalItem.displayName = "Portal";
 
-// node_modules/.pnpm/@tamagui+remove-scroll@1.98.1_react@18.2.0/node_modules/@tamagui/remove-scroll/dist/esm/RemoveScroll.mjs
+// node_modules/.pnpm/@tamagui+remove-scroll@1.98.1_@types+react@18.3.2_react@18.2.0/node_modules/@tamagui/remove-scroll/dist/esm/RemoveScroll.mjs
 var import_react16 = require("react");
 var import_react_remove_scroll = __toESM(require_es57(), 1);
 var import_jsx_runtime10 = require("react/jsx-runtime");
@@ -29487,10 +29487,10 @@ var RemoveScroll = (0, import_react16.memo)((props) => props.children ? /* @__PU
 }) : null);
 var classNames = import_react_remove_scroll.RemoveScroll.classNames;
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/Sheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/Sheet.mjs
 var import_core11 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/constants.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/constants.mjs
 var import_core7 = require("@tamagui/core");
 var SHEET_NAME = "Sheet";
 var SHEET_HANDLE_NAME = "SheetHandle";
@@ -29498,19 +29498,19 @@ var SHEET_OVERLAY_NAME = "SheetOverlay";
 var SHEET_HIDDEN_STYLESHEET = import_core7.isClient ? document.createElement("style") : null;
 SHEET_HIDDEN_STYLESHEET && typeof document.head < "u" && document.head.appendChild(SHEET_HIDDEN_STYLESHEET);
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/createSheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/createSheet.mjs
 var import_core10 = require("@tamagui/core");
 var import_react24 = require("react");
 var import_react_native_web4 = __toESM(require_cjs20(), 1);
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetContext.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetContext.mjs
 var [createSheetContext, createSheetScope] = createContextScope(SHEET_NAME);
 var [SheetProvider, useSheetContext] = createSheetContext(SHEET_NAME, {});
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
 var import_core9 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+use-keyboard-visible@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env_slkdxukmh7yu3zllqj2vzdk7va/node_modules/@tamagui/use-keyboard-visible/dist/esm/useKeyboardVisible.mjs
+// node_modules/.pnpm/@tamagui+use-keyboard-visible@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env_yhspwo5kf3jqdeoarudoaj5rny/node_modules/@tamagui/use-keyboard-visible/dist/esm/useKeyboardVisible.mjs
 var import_react17 = require("react");
 var import_react_native_web = __toESM(require_cjs20(), 1);
 var useKeyboardVisible = /* @__PURE__ */ __name(() => {
@@ -29527,18 +29527,18 @@ var useKeyboardVisible = /* @__PURE__ */ __name(() => {
   }, []), isKeyboardVisible;
 }, "useKeyboardVisible");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
 var import_react22 = require("react");
 var import_react_native_web2 = __toESM(require_cjs20(), 1);
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/contexts.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/contexts.mjs
 var import_react18 = require("react");
 var ParentSheetContext = (0, import_react18.createContext)({
   zIndex: 1e5
 });
 var SheetInsideSheetContext = (0, import_react18.createContext)(null);
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/helpers.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/helpers.mjs
 function resisted(y, minY, maxOverflow = 25) {
   if (y < minY) {
     const past = minY - y, extra = -(1.1 - 0.15 ** (Math.min(maxOverflow, past) / maxOverflow)) * maxOverflow;
@@ -29583,7 +29583,7 @@ __name(useControllableState, "useControllableState");
 var idFn2 = /* @__PURE__ */ __name(() => {
 }, "idFn");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/useSheetController.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/useSheetController.mjs
 var import_react20 = require("react");
 var useSheetController = /* @__PURE__ */ __name(() => {
   const controller = (0, import_react20.useContext)(SheetControllerContext), isHidden2 = controller == null ? void 0 : controller.hidden, isShowingNonSheet = isHidden2 && (controller == null ? void 0 : controller.open);
@@ -29596,7 +29596,7 @@ var useSheetController = /* @__PURE__ */ __name(() => {
 }, "useSheetController");
 var SheetControllerContext = (0, import_react20.createContext)(null);
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/useSheetOpenState.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/useSheetOpenState.mjs
 var useSheetOpenState = /* @__PURE__ */ __name((props) => {
   const {
     isHidden: isHidden2,
@@ -29619,7 +29619,7 @@ var useSheetOpenState = /* @__PURE__ */ __name((props) => {
   };
 }, "useSheetOpenState");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/useSheetProviderProps.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/useSheetProviderProps.mjs
 var import_core8 = require("@tamagui/core");
 var import_react21 = __toESM(require("react"), 1);
 function useSheetProviderProps(props, state, options = {}) {
@@ -29696,7 +29696,7 @@ function useSheetProviderProps(props, state, options = {}) {
 }
 __name(useSheetProviderProps, "useSheetProviderProps");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetImplementationCustom.mjs
 var import_jsx_runtime11 = require("react/jsx-runtime");
 var hiddenSize = 10000.1;
 var SheetImplementationCustom = (0, import_core9.themeable)((0, import_react22.forwardRef)(function(props, forwardedRef) {
@@ -29998,7 +29998,7 @@ var ScrollView = (0, import_web2.styled)(import_react_native_web3.ScrollView, {
   }
 });
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetScrollView.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetScrollView.mjs
 var import_react23 = require("react");
 var import_jsx_runtime12 = require("react/jsx-runtime");
 var SHEET_SCROLL_VIEW_NAME = "SheetScrollView";
@@ -30050,7 +30050,7 @@ var SheetScrollView = (0, import_react23.forwardRef)(({
   });
 });
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/useSheetOffscreenSize.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/useSheetOffscreenSize.mjs
 var useSheetOffscreenSize = /* @__PURE__ */ __name(({
   snapPoints,
   position,
@@ -30075,7 +30075,7 @@ var useSheetOffscreenSize = /* @__PURE__ */ __name(({
   return Number.isNaN(offscreenSize) ? 0 : offscreenSize;
 }, "useSheetOffscreenSize");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/createSheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/createSheet.mjs
 var import_jsx_runtime13 = require("react/jsx-runtime");
 function createSheet({
   Handle: Handle2,
@@ -30190,7 +30190,7 @@ function createSheet({
 }
 __name(createSheet, "createSheet");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/Sheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/Sheet.mjs
 var Handle = (0, import_core11.styled)(XStack, {
   name: SHEET_HANDLE_NAME,
   variants: {
@@ -30276,10 +30276,10 @@ var Sheet = createSheet({
 var SheetOverlayFrame = Overlay;
 var SheetHandleFrame = Handle;
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/useSheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/useSheet.mjs
 var useSheet = /* @__PURE__ */ __name(() => useSheetContext("", void 0), "useSheet");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/SheetController.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/SheetController.mjs
 var import_core12 = require("@tamagui/core");
 var import_react25 = require("react");
 var import_jsx_runtime14 = require("react/jsx-runtime");
@@ -30300,7 +30300,7 @@ var SheetController = /* @__PURE__ */ __name(({
   });
 }, "SheetController");
 
-// node_modules/.pnpm/@tamagui+sheet@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_rgwpxutysm6npm7xwdh4i23n3u/node_modules/@tamagui/sheet/dist/esm/nativeSheet.mjs
+// node_modules/.pnpm/@tamagui+sheet@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_45sk5cfwu27b5qllrew4fu2exa/node_modules/@tamagui/sheet/dist/esm/nativeSheet.mjs
 var import_react26 = require("react");
 var import_react_native_web5 = __toESM(require_cjs20(), 1);
 var import_jsx_runtime15 = require("react/jsx-runtime");
@@ -30385,7 +30385,7 @@ function getDefaultSizeToken(font) {
 }
 __name(getDefaultSizeToken, "getDefaultSizeToken");
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/esm/SizableText.mjs
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/esm/SizableText.mjs
 var import_web3 = require("@tamagui/core");
 var SizableText = (0, import_web3.styled)(import_web3.Text, {
   name: "SizableText",
@@ -30410,7 +30410,7 @@ SizableText.staticConfig.variants.fontFamily = {
   }
 };
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/esm/Paragraph.mjs
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/esm/Paragraph.mjs
 var import_web4 = require("@tamagui/core");
 var Paragraph = (0, import_web4.styled)(SizableText, {
   name: "Paragraph",
@@ -30421,7 +30421,7 @@ var Paragraph = (0, import_web4.styled)(SizableText, {
   whiteSpace: "normal"
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/esm/Headings.mjs
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/esm/Headings.mjs
 var import_web5 = require("@tamagui/core");
 var Heading = (0, import_web5.styled)(Paragraph, {
   tag: "span",
@@ -30462,7 +30462,7 @@ var H6 = (0, import_web5.styled)(Heading, {
   size: "$5"
 });
 
-// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_lae6o6onekl2k2zwthyfvpwqli/node_modules/@tamagui/text/dist/esm/wrapChildrenInText.mjs
+// node_modules/.pnpm/@tamagui+text@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_sotb5hp43bqzs7tetcxx2vwkhu/node_modules/@tamagui/text/dist/esm/wrapChildrenInText.mjs
 var import_react27 = __toESM(require("react"), 1);
 var import_jsx_runtime16 = require("react/jsx-runtime");
 function wrapChildrenInText(TextComponent, propsIn, extraProps) {
@@ -30496,7 +30496,7 @@ function wrapChildrenInText(TextComponent, propsIn, extraProps) {
 }
 __name(wrapChildrenInText, "wrapChildrenInText");
 
-// node_modules/.pnpm/@tamagui+dialog@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__snu643uwd55ccgnwvmxl5opswq/node_modules/@tamagui/dialog/dist/esm/Dialog.mjs
+// node_modules/.pnpm/@tamagui+dialog@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_jo3bwg4446zm3bar72pygipad4/node_modules/@tamagui/dialog/dist/esm/Dialog.mjs
 var React11 = __toESM(require("react"), 1);
 var import_jsx_runtime17 = require("react/jsx-runtime");
 var DIALOG_NAME = "Dialog";
@@ -31030,7 +31030,7 @@ var useShowDialogSheet = /* @__PURE__ */ __name((context) => {
   return context.open === false ? false : breakpointActive;
 }, "useShowDialogSheet");
 
-// node_modules/.pnpm/@tamagui+alert-dialog@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7_ezquddghxr7puatvatvltse4te/node_modules/@tamagui/alert-dialog/dist/esm/AlertDialog.mjs
+// node_modules/.pnpm/@tamagui+alert-dialog@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@_pms2qstpfx7v6sr23k532dn2oa/node_modules/@tamagui/alert-dialog/dist/esm/AlertDialog.mjs
 var React12 = __toESM(require("react"), 1);
 var import_jsx_runtime18 = require("react/jsx-runtime");
 var ROOT_NAME = "AlertDialog";
@@ -31226,10 +31226,10 @@ var AlertDialog = withStaticProperties(AlertDialogInner, {
 });
 AlertDialog.displayName = ROOT_NAME;
 
-// node_modules/.pnpm/@tamagui+avatar@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_w452d5qm2qymq5x36vwhtgjdem/node_modules/@tamagui/avatar/dist/esm/Avatar.mjs
+// node_modules/.pnpm/@tamagui+avatar@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_dtdhlfaiozxo4p4qg5u2hko3gq/node_modules/@tamagui/avatar/dist/esm/Avatar.mjs
 var import_core17 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+image@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_gapjfixzznfkkh3ceiwo2zhpv4/node_modules/@tamagui/image/dist/esm/Image.mjs
+// node_modules/.pnpm/@tamagui+image@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_m6bwyozukjr4zsjenn5x57aaru/node_modules/@tamagui/image/dist/esm/Image.mjs
 var import_core16 = require("@tamagui/core");
 var import_react_native_web6 = __toESM(require_cjs20(), 1);
 var import_jsx_runtime19 = require("react/jsx-runtime");
@@ -31303,7 +31303,7 @@ var Circle = (0, import_web7.styled)(Square, {
   circular: true
 });
 
-// node_modules/.pnpm/@tamagui+avatar@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_w452d5qm2qymq5x36vwhtgjdem/node_modules/@tamagui/avatar/dist/esm/Avatar.mjs
+// node_modules/.pnpm/@tamagui+avatar@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_dtdhlfaiozxo4p4qg5u2hko3gq/node_modules/@tamagui/avatar/dist/esm/Avatar.mjs
 var React13 = __toESM(require("react"), 1);
 var import_jsx_runtime20 = require("react/jsx-runtime");
 var AVATAR_NAME = "Avatar";
@@ -31423,10 +31423,10 @@ var getFontSizeToken = /* @__PURE__ */ __name((inSize, opts) => {
   return sizeTokens[tokenIndex] ?? size3;
 }, "getFontSizeToken");
 
-// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_gc5f6oecxco3gkq2pjgznpeigq/node_modules/@tamagui/helpers-tamagui/dist/esm/prevent.mjs
+// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_kkhngsfo6g2btta2dla7txsady/node_modules/@tamagui/helpers-tamagui/dist/esm/prevent.mjs
 var prevent = /* @__PURE__ */ __name((e) => [e.preventDefault(), e.stopPropagation()], "prevent");
 
-// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_gc5f6oecxco3gkq2pjgznpeigq/node_modules/@tamagui/helpers-tamagui/dist/esm/useCurrentColor.mjs
+// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_kkhngsfo6g2btta2dla7txsady/node_modules/@tamagui/helpers-tamagui/dist/esm/useCurrentColor.mjs
 var import_web8 = require("@tamagui/core");
 var useCurrentColor = /* @__PURE__ */ __name((colorProp) => {
   var _a, _b;
@@ -31434,7 +31434,7 @@ var useCurrentColor = /* @__PURE__ */ __name((colorProp) => {
   return (0, import_web8.getVariable)(colorProp || ((_a = theme[colorProp]) == null ? void 0 : _a.get("web")) || ((_b = theme.color) == null ? void 0 : _b.get("web")));
 }, "useCurrentColor");
 
-// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_gc5f6oecxco3gkq2pjgznpeigq/node_modules/@tamagui/helpers-tamagui/dist/esm/useGetThemedIcon.mjs
+// node_modules/.pnpm/@tamagui+helpers-tamagui@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_kkhngsfo6g2btta2dla7txsady/node_modules/@tamagui/helpers-tamagui/dist/esm/useGetThemedIcon.mjs
 var import_react28 = require("react");
 var useGetThemedIcon = /* @__PURE__ */ __name((props) => {
   const color = useCurrentColor(props.color);
@@ -31446,7 +31446,7 @@ var useGetThemedIcon = /* @__PURE__ */ __name((props) => {
   }) : (0, import_react28.createElement)(el, props));
 }, "useGetThemedIcon");
 
-// node_modules/.pnpm/@tamagui+button@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_6aivqfl77cmkxc7hjr2w4asu4m/node_modules/@tamagui/button/dist/esm/Button.mjs
+// node_modules/.pnpm/@tamagui+button@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_pbrdjfjwp7r7g6xhz3moxibjbe/node_modules/@tamagui/button/dist/esm/Button.mjs
 var import_web9 = require("@tamagui/core");
 var import_react29 = require("react");
 var import_jsx_runtime21 = require("react/jsx-runtime");
@@ -31761,17 +31761,17 @@ var Card = (0, import_web10.withStaticProperties)(CardFrame, {
   Background: CardBackground
 });
 
-// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_rt2c5dgiq67b3sqwntybg5fyye/node_modules/@tamagui/checkbox/dist/esm/Checkbox.mjs
+// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qqk7mpaouktkkcigxvsiamfamq/node_modules/@tamagui/checkbox/dist/esm/Checkbox.mjs
 var import_core20 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_rt2c5dgiq67b3sqwntybg5fyye/node_modules/@tamagui/checkbox/dist/esm/CheckboxStyledContext.mjs
+// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qqk7mpaouktkkcigxvsiamfamq/node_modules/@tamagui/checkbox/dist/esm/CheckboxStyledContext.mjs
 var import_core19 = require("@tamagui/core");
 var CheckboxStyledContext = (0, import_core19.createStyledContext)({
   size: "$true",
   scaleIcon: 1
 });
 
-// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_rt2c5dgiq67b3sqwntybg5fyye/node_modules/@tamagui/checkbox/dist/esm/Checkbox.mjs
+// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qqk7mpaouktkkcigxvsiamfamq/node_modules/@tamagui/checkbox/dist/esm/Checkbox.mjs
 var INDICATOR_NAME = "CheckboxIndicator";
 var CheckboxIndicatorFrame = (0, import_core20.styled)(ThemeableStack, {
   // use Checkbox for easier themes
@@ -31888,7 +31888,7 @@ function useFocusable({
 }
 __name(useFocusable, "useFocusable");
 
-// node_modules/.pnpm/@tamagui+label@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_fqw3fykficc42jwyl2d45maqle/node_modules/@tamagui/label/dist/esm/Label.mjs
+// node_modules/.pnpm/@tamagui+label@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+_lcp5sceu4be2dinawqjbcr2xva/node_modules/@tamagui/label/dist/esm/Label.mjs
 var import_web12 = require("@tamagui/core");
 var React14 = __toESM(require("react"), 1);
 var import_jsx_runtime23 = require("react/jsx-runtime");
@@ -31990,7 +31990,7 @@ var useLabelContext = /* @__PURE__ */ __name((element) => {
   }, [element, controlRef]), context.id;
 }, "useLabelContext");
 
-// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._dmpug3aj3ffeypw2hpmrtusbzu/node_modules/@tamagui/checkbox-headless/dist/esm/useCheckbox.mjs
+// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._l6xgaqngytwtdzh36lp367xtpa/node_modules/@tamagui/checkbox-headless/dist/esm/useCheckbox.mjs
 var import_react32 = __toESM(require("react"), 1);
 
 // node_modules/.pnpm/@tamagui+use-previous@1.98.1/node_modules/@tamagui/use-previous/dist/esm/index.mjs
@@ -32004,10 +32004,10 @@ function usePrevious(value) {
 }
 __name(usePrevious, "usePrevious");
 
-// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._dmpug3aj3ffeypw2hpmrtusbzu/node_modules/@tamagui/checkbox-headless/dist/esm/BubbleInput.mjs
+// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._l6xgaqngytwtdzh36lp367xtpa/node_modules/@tamagui/checkbox-headless/dist/esm/BubbleInput.mjs
 var React15 = __toESM(require("react"), 1);
 
-// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._dmpug3aj3ffeypw2hpmrtusbzu/node_modules/@tamagui/checkbox-headless/dist/esm/utils.mjs
+// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._l6xgaqngytwtdzh36lp367xtpa/node_modules/@tamagui/checkbox-headless/dist/esm/utils.mjs
 function isIndeterminate(checked) {
   return checked === "indeterminate";
 }
@@ -32017,7 +32017,7 @@ function getState2(checked) {
 }
 __name(getState2, "getState");
 
-// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._dmpug3aj3ffeypw2hpmrtusbzu/node_modules/@tamagui/checkbox-headless/dist/esm/BubbleInput.mjs
+// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._l6xgaqngytwtdzh36lp367xtpa/node_modules/@tamagui/checkbox-headless/dist/esm/BubbleInput.mjs
 var import_jsx_runtime24 = require("react/jsx-runtime");
 var BubbleInput = /* @__PURE__ */ __name((props) => {
   const {
@@ -32058,7 +32058,7 @@ var BubbleInput = /* @__PURE__ */ __name((props) => {
   });
 }, "BubbleInput");
 
-// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._dmpug3aj3ffeypw2hpmrtusbzu/node_modules/@tamagui/checkbox-headless/dist/esm/useCheckbox.mjs
+// node_modules/.pnpm/@tamagui+checkbox-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7._l6xgaqngytwtdzh36lp367xtpa/node_modules/@tamagui/checkbox-headless/dist/esm/useCheckbox.mjs
 var import_jsx_runtime25 = require("react/jsx-runtime");
 function useCheckbox(props, [checked, setChecked], ref) {
   const {
@@ -32105,7 +32105,7 @@ function useCheckbox(props, [checked, setChecked], ref) {
 }
 __name(useCheckbox, "useCheckbox");
 
-// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_rt2c5dgiq67b3sqwntybg5fyye/node_modules/@tamagui/checkbox/dist/esm/createCheckbox.mjs
+// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qqk7mpaouktkkcigxvsiamfamq/node_modules/@tamagui/checkbox/dist/esm/createCheckbox.mjs
 var import_core21 = require("@tamagui/core");
 var import_react33 = __toESM(require("react"), 1);
 var import_jsx_runtime26 = require("react/jsx-runtime");
@@ -32223,13 +32223,13 @@ function createCheckbox(createProps) {
 }
 __name(createCheckbox, "createCheckbox");
 
-// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_rt2c5dgiq67b3sqwntybg5fyye/node_modules/@tamagui/checkbox/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+checkbox@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qqk7mpaouktkkcigxvsiamfamq/node_modules/@tamagui/checkbox/dist/esm/index.mjs
 var Checkbox = createCheckbox({
   Frame: CheckboxFrame,
   Indicator: CheckboxIndicatorFrame
 });
 
-// node_modules/.pnpm/@tamagui+form@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_2req2mrbclh353yg4yttkbyfjq/node_modules/@tamagui/form/dist/esm/Form.mjs
+// node_modules/.pnpm/@tamagui+form@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel+c_bjhi6tnwvsgtpnuexxsgrmnkuy/node_modules/@tamagui/form/dist/esm/Form.mjs
 var import_core22 = require("@tamagui/core");
 var import_jsx_runtime27 = require("react/jsx-runtime");
 var FORM_NAME = "Form";
@@ -32275,7 +32275,7 @@ var Form2 = withStaticProperties(FormComponent, {
   Trigger: FormTrigger
 });
 
-// node_modules/.pnpm/@tamagui+group@1.98.1_react@18.2.0/node_modules/@tamagui/group/dist/esm/Group.mjs
+// node_modules/.pnpm/@tamagui+group@1.98.1_@types+react@18.3.2_react@18.2.0/node_modules/@tamagui/group/dist/esm/Group.mjs
 var import_core23 = require("@tamagui/core");
 var import_react35 = __toESM(require("react"), 1);
 var import_react_native_web7 = __toESM(require_cjs20(), 1);
@@ -32448,13 +32448,13 @@ var cloneElementWithPropOrder = /* @__PURE__ */ __name((child, props) => {
   }, next);
 }, "cloneElementWithPropOrder");
 
-// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_vp2eoqwopisnnb5viwhrvjmze4/node_modules/@tamagui/react-native-media-driver/dist/esm/createMedia.mjs
+// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_w4nfjxgrztrox7g7cxxwaij2qi/node_modules/@tamagui/react-native-media-driver/dist/esm/createMedia.mjs
 var import_web13 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_vp2eoqwopisnnb5viwhrvjmze4/node_modules/@tamagui/react-native-media-driver/dist/esm/matchMedia.mjs
+// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_w4nfjxgrztrox7g7cxxwaij2qi/node_modules/@tamagui/react-native-media-driver/dist/esm/matchMedia.mjs
 var matchMedia = globalThis.matchMedia;
 
-// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_vp2eoqwopisnnb5viwhrvjmze4/node_modules/@tamagui/react-native-media-driver/dist/esm/createMedia.mjs
+// node_modules/.pnpm/@tamagui+react-native-media-driver@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+prese_w4nfjxgrztrox7g7cxxwaij2qi/node_modules/@tamagui/react-native-media-driver/dist/esm/createMedia.mjs
 function createMedia(media) {
   return (0, import_web13.setupMatchMedia)(matchMedia), media;
 }
@@ -32503,7 +32503,7 @@ var Nav = (0, import_core24.styled)(import_core24.View, {
   // accessibilityRole: 'navigation',
 });
 
-// node_modules/.pnpm/@tamagui+list-item@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_igtm3f7ukizbunyxk4wjtigfj4/node_modules/@tamagui/list-item/dist/esm/ListItem.mjs
+// node_modules/.pnpm/@tamagui+list-item@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@ba_u2lipwyhinzwzrwzzyayhi6qay/node_modules/@tamagui/list-item/dist/esm/ListItem.mjs
 var import_web14 = require("@tamagui/core");
 var import_jsx_runtime29 = require("react/jsx-runtime");
 var NAME2 = "ListItem";
@@ -32717,7 +32717,7 @@ function Animate({
 }
 __name(Animate, "Animate");
 
-// node_modules/.pnpm/@tamagui+popover@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_mj4hvm74to3vihl3ih46jwwsum/node_modules/@tamagui/popover/dist/esm/Popover.mjs
+// node_modules/.pnpm/@tamagui+popover@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._fq2la5ptz47frpv6kiyj2p6z4a/node_modules/@tamagui/popover/dist/esm/Popover.mjs
 var import_core27 = require("@tamagui/core");
 
 // node_modules/.pnpm/@floating-ui+utils@0.2.2/node_modules/@floating-ui/utils/dist/floating-ui.utils.mjs
@@ -34431,7 +34431,7 @@ function useFloating(options) {
 }
 __name(useFloating, "useFloating");
 
-// node_modules/.pnpm/@tamagui+floating@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24._wdp4qeyt7i7rahbvybvfomr5p4/node_modules/@tamagui/floating/dist/esm/useFloating.mjs
+// node_modules/.pnpm/@tamagui+floating@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24._yr7evcuhce7f437kjmxgskej3m/node_modules/@tamagui/floating/dist/esm/useFloating.mjs
 var import_react37 = require("react");
 var FloatingOverrideContext = (0, import_react37.createContext)(null);
 var useFloating2 = /* @__PURE__ */ __name((props) => {
@@ -34439,7 +34439,7 @@ var useFloating2 = /* @__PURE__ */ __name((props) => {
   return (_a = (0, import_react37.useContext)(FloatingOverrideContext) || useFloating) == null ? void 0 : _a(props);
 }, "useFloating");
 
-// node_modules/.pnpm/@tamagui+popper@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__4lvhwq3bkwx3fk2pforvuwgcsy/node_modules/@tamagui/popper/dist/esm/Popper.mjs
+// node_modules/.pnpm/@tamagui+popper@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__xyp2ypfkowbzmgm2jkhou4plp4/node_modules/@tamagui/popper/dist/esm/Popper.mjs
 var import_core26 = require("@tamagui/core");
 var React20 = __toESM(require("react"), 1);
 var import_react_native_web8 = __toESM(require_cjs20(), 1);
@@ -34718,7 +34718,7 @@ var PopperArrow = PopperArrowFrame.styleable(function(propsIn, forwardedRef) {
   });
 });
 
-// node_modules/.pnpm/@tamagui+popover@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_mj4hvm74to3vihl3ih46jwwsum/node_modules/@tamagui/popover/dist/esm/Popover.mjs
+// node_modules/.pnpm/@tamagui+popover@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._fq2la5ptz47frpv6kiyj2p6z4a/node_modules/@tamagui/popover/dist/esm/Popover.mjs
 var React22 = __toESM(require("react"), 1);
 var import_react_native_web9 = __toESM(require_cjs20(), 1);
 
@@ -38247,7 +38247,7 @@ function safePolygon(options) {
 }
 __name(safePolygon, "safePolygon");
 
-// node_modules/.pnpm/@tamagui+popover@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_mj4hvm74to3vihl3ih46jwwsum/node_modules/@tamagui/popover/dist/esm/useFloatingContext.mjs
+// node_modules/.pnpm/@tamagui+popover@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._fq2la5ptz47frpv6kiyj2p6z4a/node_modules/@tamagui/popover/dist/esm/useFloatingContext.mjs
 var import_react40 = require("react");
 var useFloatingContext = /* @__PURE__ */ __name(({
   open,
@@ -38292,7 +38292,7 @@ var useFloatingContext = /* @__PURE__ */ __name(({
   };
 }, [open, setOpen, disable, disableFocus, hoverable]), "useFloatingContext");
 
-// node_modules/.pnpm/@tamagui+popover@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_mj4hvm74to3vihl3ih46jwwsum/node_modules/@tamagui/popover/dist/esm/Popover.mjs
+// node_modules/.pnpm/@tamagui+popover@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._fq2la5ptz47frpv6kiyj2p6z4a/node_modules/@tamagui/popover/dist/esm/Popover.mjs
 var import_jsx_runtime32 = require("react/jsx-runtime");
 var POPOVER_SCOPE = "PopoverScope";
 var PopoverContext = (0, import_core27.createStyledContext)({});
@@ -38635,7 +38635,7 @@ var useShowPopoverSheet = /* @__PURE__ */ __name((context) => {
   return context.open === false ? false : breakpointActive;
 }, "useShowPopoverSheet");
 
-// node_modules/.pnpm/@tamagui+progress@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_qeyvola3a3lhpvt244pa5ntfui/node_modules/@tamagui/progress/dist/esm/Progress.mjs
+// node_modules/.pnpm/@tamagui+progress@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@bab_gtnq24dkfiy53x2dvrmfr7d5ke/node_modules/@tamagui/progress/dist/esm/Progress.mjs
 var import_core28 = require("@tamagui/core");
 var React23 = __toESM(require("react"), 1);
 var import_jsx_runtime33 = require("react/jsx-runtime");
@@ -38762,7 +38762,7 @@ var Progress = withStaticProperties(ProgressFrame.styleable(function(props, forw
   Indicator: ProgressIndicator
 });
 
-// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_ulb2bszdxgugsab5v3b3prr554/node_modules/@tamagui/radio-group/dist/esm/RadioGroup.mjs
+// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_rymv2fr4utceakmiga3xzfosrm/node_modules/@tamagui/radio-group/dist/esm/RadioGroup.mjs
 var import_core29 = require("@tamagui/core");
 var RADIO_GROUP_ITEM_NAME = "RadioGroupItem";
 var RadioGroupItemFrame = (0, import_core29.styled)(ThemeableStack, {
@@ -38867,13 +38867,13 @@ var RadioGroupFrame = (0, import_core29.styled)(ThemeableStack, {
   }
 });
 
-// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_ulb2bszdxgugsab5v3b3prr554/node_modules/@tamagui/radio-group/dist/esm/createRadioGroup.mjs
+// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_rymv2fr4utceakmiga3xzfosrm/node_modules/@tamagui/radio-group/dist/esm/createRadioGroup.mjs
 var import_core32 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._u3w7nwhdseuuhgzwznaskfgmci/node_modules/@tamagui/radio-headless/dist/esm/useRadioGroup.mjs
+// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._efcru4ujzptlinxyzmuojx4mcy/node_modules/@tamagui/radio-headless/dist/esm/useRadioGroup.mjs
 var import_react42 = require("react");
 
-// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._u3w7nwhdseuuhgzwznaskfgmci/node_modules/@tamagui/radio-headless/dist/esm/BubbleInput.mjs
+// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._efcru4ujzptlinxyzmuojx4mcy/node_modules/@tamagui/radio-headless/dist/esm/BubbleInput.mjs
 var import_react41 = __toESM(require("react"), 1);
 var import_jsx_runtime34 = require("react/jsx-runtime");
 var BubbleInput2 = /* @__PURE__ */ __name((props) => {
@@ -38916,13 +38916,13 @@ var BubbleInput2 = /* @__PURE__ */ __name((props) => {
   });
 }, "BubbleInput");
 
-// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._u3w7nwhdseuuhgzwznaskfgmci/node_modules/@tamagui/radio-headless/dist/esm/utils.mjs
+// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._efcru4ujzptlinxyzmuojx4mcy/node_modules/@tamagui/radio-headless/dist/esm/utils.mjs
 function getState4(checked) {
   return checked ? "checked" : "unchecked";
 }
 __name(getState4, "getState");
 
-// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._u3w7nwhdseuuhgzwznaskfgmci/node_modules/@tamagui/radio-headless/dist/esm/useRadioGroup.mjs
+// node_modules/.pnpm/@tamagui+radio-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24._efcru4ujzptlinxyzmuojx4mcy/node_modules/@tamagui/radio-headless/dist/esm/useRadioGroup.mjs
 var import_jsx_runtime35 = require("react/jsx-runtime");
 function useRadioGroup(params) {
   const {
@@ -39328,7 +39328,7 @@ function wrapArray(array, startIndex) {
 }
 __name(wrapArray, "wrapArray");
 
-// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_ulb2bszdxgugsab5v3b3prr554/node_modules/@tamagui/radio-group/dist/esm/createRadioGroup.mjs
+// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_rymv2fr4utceakmiga3xzfosrm/node_modules/@tamagui/radio-group/dist/esm/createRadioGroup.mjs
 var import_react44 = require("react");
 var import_jsx_runtime39 = require("react/jsx-runtime");
 var ensureContext2 = /* @__PURE__ */ __name((x) => {
@@ -39453,21 +39453,21 @@ function createRadioGroup(createProps) {
 }
 __name(createRadioGroup, "createRadioGroup");
 
-// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_ulb2bszdxgugsab5v3b3prr554/node_modules/@tamagui/radio-group/dist/esm/RadioGroupStyledContext.mjs
+// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_rymv2fr4utceakmiga3xzfosrm/node_modules/@tamagui/radio-group/dist/esm/RadioGroupStyledContext.mjs
 var import_core33 = require("@tamagui/core");
 var RadioGroupStyledContext = (0, import_core33.createStyledContext)({
   size: "$true",
   scaleIcon: 1
 });
 
-// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_ulb2bszdxgugsab5v3b3prr554/node_modules/@tamagui/radio-group/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+radio-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@_rymv2fr4utceakmiga3xzfosrm/node_modules/@tamagui/radio-group/dist/esm/index.mjs
 var RadioGroup = createRadioGroup({
   Frame: RadioGroupFrame,
   Indicator: RadioGroupIndicatorFrame,
   Item: RadioGroupItemFrame
 });
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/Select.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/Select.mjs
 var import_core41 = require("@tamagui/core");
 
 // node_modules/.pnpm/@tamagui+separator@1.98.1/node_modules/@tamagui/separator/dist/esm/Separator.mjs
@@ -39501,7 +39501,7 @@ var Separator = (0, import_core34.styled)(import_core34.Stack, {
   }
 });
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/Select.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/Select.mjs
 var React33 = __toESM(require("react"), 1);
 
 // node_modules/.pnpm/@tamagui+use-debounce@1.98.1/node_modules/@tamagui/use-debounce/dist/esm/index.mjs
@@ -39545,12 +39545,12 @@ function useDebounceValue(val, amt = 0) {
 }
 __name(useDebounceValue, "useDebounceValue");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/constants.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/constants.mjs
 var SELECT_NAME = "Select";
 var SCROLL_ARROW_THRESHOLD = 8;
 var VIEWPORT_NAME = "SelectViewport";
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/context.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/context.mjs
 var import_jsx_runtime40 = require("react/jsx-runtime");
 var [createSelectContext, createSelectScope] = createContextScope(SELECT_NAME);
 var [SelectProvider, useSelectContext] = createSelectContext(SELECT_NAME);
@@ -39572,11 +39572,11 @@ var ForwardSelectContext = /* @__PURE__ */ __name(({
   })
 }), "ForwardSelectContext");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectContent.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectContent.mjs
 var import_core36 = require("@tamagui/core");
 var import_react47 = require("react");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/useSelectBreakpointActive.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/useSelectBreakpointActive.mjs
 var import_core35 = require("@tamagui/core");
 var useSelectBreakpointActive = /* @__PURE__ */ __name((sheetBreakpoint) => {
   const media = (0, import_core35.useMedia)();
@@ -39587,7 +39587,7 @@ var useShowSelectSheet = /* @__PURE__ */ __name((context) => {
   return context.open === false ? false : breakpointActive;
 }, "useShowSelectSheet");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectContent.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectContent.mjs
 var import_jsx_runtime41 = require("react/jsx-runtime");
 var CONTENT_NAME3 = "SelectContent";
 var SelectContent = /* @__PURE__ */ __name(({
@@ -39623,7 +39623,7 @@ var SelectContent = /* @__PURE__ */ __name(({
   });
 }, "SelectContent");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectImpl.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectImpl.mjs
 var import_core37 = require("@tamagui/core");
 var React28 = __toESM(require("react"), 1);
 var import_react_dom5 = require("react-dom");
@@ -39839,7 +39839,7 @@ var SelectInlineImpl = /* @__PURE__ */ __name((props) => {
   });
 }, "SelectInlineImpl");
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectItem.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectItem.mjs
 var React29 = __toESM(require("react"), 1);
 var import_jsx_runtime43 = require("react/jsx-runtime");
 var ITEM_NAME2 = "SelectItem";
@@ -39954,7 +39954,7 @@ var SelectItem = ListItemFrame.styleable(function(props, forwardedRef) {
   disableTheme: true
 });
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectItemText.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectItemText.mjs
 var import_core38 = require("@tamagui/core");
 var React30 = __toESM(require("react"), 1);
 var import_jsx_runtime44 = require("react/jsx-runtime");
@@ -39997,7 +39997,7 @@ var SelectItemText = SelectItemTextFrame.styleable(function(props, forwardedRef)
   });
 });
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectScrollButton.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectScrollButton.mjs
 var React31 = __toESM(require("react"), 1);
 var import_react_dom6 = require("react-dom");
 var import_jsx_runtime45 = require("react/jsx-runtime");
@@ -40090,7 +40090,7 @@ var SelectScrollButtonImpl = React31.memo(React31.forwardRef((props, forwardedRe
   });
 }));
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectTrigger.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectTrigger.mjs
 var import_core39 = require("@tamagui/core");
 var React32 = __toESM(require("react"), 1);
 var import_jsx_runtime46 = require("react/jsx-runtime");
@@ -40150,7 +40150,7 @@ var SelectTrigger = React32.forwardRef(function(props, forwardedRef) {
   });
 });
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/SelectViewport.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/SelectViewport.mjs
 var import_core40 = require("@tamagui/core");
 var import_jsx_runtime47 = require("react/jsx-runtime");
 var SelectViewportFrame = (0, import_core40.styled)(ThemeableStack, {
@@ -40252,7 +40252,7 @@ var selectViewportCSS = `
 }
 `;
 
-// node_modules/.pnpm/@tamagui+select@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5__lblenbrh7excatlr6tfuwxnlre/node_modules/@tamagui/select/dist/esm/Select.mjs
+// node_modules/.pnpm/@tamagui+select@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_5kml47wltqpke2iwuvllzm66ey/node_modules/@tamagui/select/dist/esm/Select.mjs
 var import_jsx_runtime48 = require("react/jsx-runtime");
 var VALUE_NAME = "SelectValue";
 var SelectValueFrame = (0, import_core41.styled)(SizableText, {
@@ -40556,11 +40556,11 @@ function useEmitter() {
 __name(useEmitter, "useEmitter");
 Select.displayName = SELECT_NAME;
 
-// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_i5xyjoh3i2jt3h46llipdmkc4y/node_modules/@tamagui/slider/dist/esm/Slider.mjs
+// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ii2jpfuxjvz2yvb4pxltxyxzey/node_modules/@tamagui/slider/dist/esm/Slider.mjs
 var import_core43 = require("@tamagui/core");
 var React35 = __toESM(require("react"), 1);
 
-// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_i5xyjoh3i2jt3h46llipdmkc4y/node_modules/@tamagui/slider/dist/esm/constants.mjs
+// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ii2jpfuxjvz2yvb4pxltxyxzey/node_modules/@tamagui/slider/dist/esm/constants.mjs
 var SLIDER_NAME = "Slider";
 var [createSliderContext, createSliderScope] = createContextScope(SLIDER_NAME);
 var [SliderProvider, useSliderContext] = createSliderContext(SLIDER_NAME);
@@ -40578,7 +40578,7 @@ var BACK_KEYS = {
   rtl: ["ArrowDown", "Home", "ArrowRight", "PageDown"]
 };
 
-// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_i5xyjoh3i2jt3h46llipdmkc4y/node_modules/@tamagui/slider/dist/esm/helpers.mjs
+// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ii2jpfuxjvz2yvb4pxltxyxzey/node_modules/@tamagui/slider/dist/esm/helpers.mjs
 function getNextSortedValues(prevValues = [], nextValue, atIndex) {
   const nextValues = [...prevValues];
   return nextValues[atIndex] = nextValue, nextValues.sort((a, b) => a - b);
@@ -40638,7 +40638,7 @@ function roundValue(value, decimalCount) {
 }
 __name(roundValue, "roundValue");
 
-// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_i5xyjoh3i2jt3h46llipdmkc4y/node_modules/@tamagui/slider/dist/esm/SliderImpl.mjs
+// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ii2jpfuxjvz2yvb4pxltxyxzey/node_modules/@tamagui/slider/dist/esm/SliderImpl.mjs
 var import_core42 = require("@tamagui/core");
 var React34 = __toESM(require("react"), 1);
 var import_jsx_runtime49 = require("react/jsx-runtime");
@@ -40705,7 +40705,7 @@ var SliderImpl = React34.forwardRef((props, forwardedRef) => {
   });
 });
 
-// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_i5xyjoh3i2jt3h46llipdmkc4y/node_modules/@tamagui/slider/dist/esm/Slider.mjs
+// node_modules/.pnpm/@tamagui+slider@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ii2jpfuxjvz2yvb4pxltxyxzey/node_modules/@tamagui/slider/dist/esm/Slider.mjs
 var import_jsx_runtime50 = require("react/jsx-runtime");
 var SliderHorizontal = React35.forwardRef((props, forwardedRef) => {
   const {
@@ -41105,10 +41105,10 @@ var Track = SliderTrack;
 var Range = SliderTrackActive;
 var Thumb = SliderThumb;
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
 var import_core46 = require("@tamagui/core");
 
-// node_modules/.pnpm/@tamagui+switch-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_ybzlge2qn7hndk47u35f5hlqwi/node_modules/@tamagui/switch-headless/dist/esm/useSwitch.mjs
+// node_modules/.pnpm/@tamagui+switch-headless@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24_qqfsj6xtjunxiyl4ky7xc4f4ym/node_modules/@tamagui/switch-headless/dist/esm/useSwitch.mjs
 var React36 = __toESM(require("react"), 1);
 var import_jsx_runtime51 = require("react/jsx-runtime");
 function getState5(checked) {
@@ -41190,18 +41190,18 @@ function useSwitch(props, [checked, setChecked], ref) {
 }
 __name(useSwitch, "useSwitch");
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
 var React37 = __toESM(require("react"), 1);
 var import_react_native_web10 = __toESM(require_cjs20(), 1);
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/StyledContext.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/StyledContext.mjs
 var import_core44 = require("@tamagui/core");
 var SwitchStyledContext = (0, import_core44.createStyledContext)({
   size: void 0,
   unstyled: process.env.TAMAGUI_HEADLESS === "1"
 });
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/Switch.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/Switch.mjs
 var import_core45 = require("@tamagui/core");
 var SwitchThumb = (0, import_core45.styled)(ThemeableStack, {
   name: "SwitchThumb",
@@ -41268,7 +41268,7 @@ var SwitchFrame = (0, import_core45.styled)(YStack, {
   }
 });
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/createSwitch.mjs
 var import_jsx_runtime52 = require("react/jsx-runtime");
 var SwitchContext = React37.createContext({
   checked: false,
@@ -41385,13 +41385,13 @@ function createSwitch(createProps) {
 }
 __name(createSwitch, "createSwitch");
 
-// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ryk6x35ak5xg3vxsh5v5wp7p6y/node_modules/@tamagui/switch/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+switch@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5_@babel_ynrsvkke5gdxbfr7ouo4ifhmia/node_modules/@tamagui/switch/dist/esm/index.mjs
 var Switch = createSwitch({
   Frame: SwitchFrame,
   Thumb: SwitchThumb
 });
 
-// node_modules/.pnpm/@tamagui+tabs@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@b_jzxkoob3dyjbagyanl5nxt5kdy/node_modules/@tamagui/tabs/dist/esm/Tabs.mjs
+// node_modules/.pnpm/@tamagui+tabs@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@_fkpww7ouiffgqqvzglslbwgtcu/node_modules/@tamagui/tabs/dist/esm/Tabs.mjs
 var import_web15 = require("@tamagui/core");
 var React38 = __toESM(require("react"), 1);
 var import_jsx_runtime53 = require("react/jsx-runtime");
@@ -41641,14 +41641,14 @@ function makeContentId(baseId, value) {
 }
 __name(makeContentId, "makeContentId");
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/index.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/index.mjs
 __reExport(esm_exports2, __toESM(require_cjs21(), 1), module.exports);
 
-// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5__ezmf6s63oxst7oovbuasslu5ga/node_modules/@tamagui/toggle-group/dist/esm/ToggleGroup.mjs
+// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babe_qjijf7lb4sxckpq3tbjaeh4xkq/node_modules/@tamagui/toggle-group/dist/esm/ToggleGroup.mjs
 var import_web17 = require("@tamagui/core");
 var import_react51 = __toESM(require("react"), 1);
 
-// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5__ezmf6s63oxst7oovbuasslu5ga/node_modules/@tamagui/toggle-group/dist/esm/Toggle.mjs
+// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babe_qjijf7lb4sxckpq3tbjaeh4xkq/node_modules/@tamagui/toggle-group/dist/esm/Toggle.mjs
 var import_web16 = require("@tamagui/core");
 var React39 = __toESM(require("react"), 1);
 var import_jsx_runtime54 = require("react/jsx-runtime");
@@ -41738,7 +41738,7 @@ var Toggle = React39.forwardRef(function(props, forwardedRef) {
   });
 });
 
-// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-env@7.24.5__ezmf6s63oxst7oovbuasslu5ga/node_modules/@tamagui/toggle-group/dist/esm/ToggleGroup.mjs
+// node_modules/.pnpm/@tamagui+toggle-group@1.98.1_@types+react@18.3.2_react-native@0.74.1_@babel+core@7.24.5_@babe_qjijf7lb4sxckpq3tbjaeh4xkq/node_modules/@tamagui/toggle-group/dist/esm/ToggleGroup.mjs
 var import_jsx_runtime55 = require("react/jsx-runtime");
 var TOGGLE_GROUP_NAME = "ToggleGroup";
 var TOGGLE_GROUP_ITEM_NAME = "ToggleGroupItem";
@@ -41964,7 +41964,7 @@ var ToggleGroupImpl = ToggleGroupImplElementFrame.extractable(import_react51.def
   });
 }));
 
-// node_modules/.pnpm/@tamagui+tooltip@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_km7dkyamk5o4gmfkhm47gcc3lq/node_modules/@tamagui/tooltip/dist/esm/Tooltip.mjs
+// node_modules/.pnpm/@tamagui+tooltip@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._yxdjy7iodqvia37mlusa7jz6zq/node_modules/@tamagui/tooltip/dist/esm/Tooltip.mjs
 var import_core47 = require("@tamagui/core");
 var React41 = __toESM(require("react"), 1);
 var import_jsx_runtime56 = require("react/jsx-runtime");
@@ -42122,7 +42122,7 @@ var Tooltip2 = withStaticProperties(TooltipComponent, {
 var voidFn = /* @__PURE__ */ __name(() => {
 }, "voidFn");
 
-// node_modules/.pnpm/@tamagui+tooltip@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_km7dkyamk5o4gmfkhm47gcc3lq/node_modules/@tamagui/tooltip/dist/esm/TooltipSimple.mjs
+// node_modules/.pnpm/@tamagui+tooltip@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74._yxdjy7iodqvia37mlusa7jz6zq/node_modules/@tamagui/tooltip/dist/esm/TooltipSimple.mjs
 var React42 = __toESM(require("react"), 1);
 var import_jsx_runtime57 = require("react/jsx-runtime");
 var TooltipSimple = React42.forwardRef(({
@@ -42198,7 +42198,7 @@ var defaultTooltipDelay = {
   close: 100
 };
 
-// node_modules/.pnpm/@tamagui+use-window-dimensions@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-en_btpthlaa6qdcsjyhwmoqbhhmni/node_modules/@tamagui/use-window-dimensions/dist/esm/index.mjs
+// node_modules/.pnpm/@tamagui+use-window-dimensions@1.98.1_react-native@0.74.1_@babel+core@7.24.5_@babel+preset-en_stx6q2e23g2mfjgv2q5b567svy/node_modules/@tamagui/use-window-dimensions/dist/esm/index.mjs
 var import_react54 = require("react");
 var import_react_native_web11 = __toESM(require_cjs20(), 1);
 var initialValue = {
@@ -42259,7 +42259,7 @@ var VisuallyHidden = (0, import_web18.styled)(import_web18.Stack, {
 });
 VisuallyHidden.isVisuallyHidden = true;
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/createTamagui.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/createTamagui.mjs
 var import_core48 = require("@tamagui/core");
 var createTamagui = process.env.NODE_ENV !== "development" ? import_core48.createTamagui : (conf) => {
   const sizeTokenKeys = ["$true"], hasKeys = /* @__PURE__ */ __name((expectedKeys, obj) => expectedKeys.every((k) => typeof obj[k] < "u"), "hasKeys"), tamaguiConfig = (0, import_core48.createTamagui)(conf);
@@ -42305,7 +42305,7 @@ Expected a subset of: ${expected.join(", ")}
   return tamaguiConfig;
 };
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/TamaguiProvider.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/TamaguiProvider.mjs
 var import_core49 = require("@tamagui/core");
 var import_jsx_runtime58 = require("react/jsx-runtime");
 var TamaguiProvider = /* @__PURE__ */ __name(({
@@ -42319,7 +42319,7 @@ var TamaguiProvider = /* @__PURE__ */ __name(({
   })
 }), "TamaguiProvider");
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Anchor.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Anchor.mjs
 var import_core50 = require("@tamagui/core");
 var import_react_native_web12 = __toESM(require_cjs20(), 1);
 var import_jsx_runtime59 = require("react/jsx-runtime");
@@ -42346,7 +42346,7 @@ var Anchor = AnchorFrame.styleable(({
   ref
 }));
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/EnsureFlexed.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/EnsureFlexed.mjs
 var import_core51 = require("@tamagui/core");
 var EnsureFlexed = (0, import_core51.styled)(import_core51.Text, {
   opacity: 0,
@@ -42359,7 +42359,7 @@ var EnsureFlexed = (0, import_core51.styled)(import_core51.Text, {
 });
 EnsureFlexed.isVisuallyHidden = true;
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Fieldset.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Fieldset.mjs
 var import_core52 = require("@tamagui/core");
 var Fieldset = (0, import_core52.styled)(YStack, {
   name: "Fieldset",
@@ -42374,11 +42374,11 @@ var Fieldset = (0, import_core52.styled)(YStack, {
   }
 });
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Input.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Input.mjs
 var import_core54 = require("@tamagui/core");
 var import_react_native_web13 = __toESM(require_cjs20(), 1);
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/helpers/inputHelpers.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/helpers/inputHelpers.mjs
 var import_core53 = require("@tamagui/core");
 var inputSizeVariant = /* @__PURE__ */ __name((val = "$true", extras) => {
   if (extras.props.multiline || extras.props.numberOfLines > 1)
@@ -42412,7 +42412,7 @@ var textAreaSizeVariant = /* @__PURE__ */ __name((val = "$true", extras) => {
   };
 }, "textAreaSizeVariant");
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Input.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Input.mjs
 var import_react55 = require("react");
 var import_jsx_runtime60 = require("react/jsx-runtime");
 var defaultStyles = {
@@ -42492,7 +42492,7 @@ function useInputProps(props, ref) {
 }
 __name(useInputProps, "useInputProps");
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Spinner.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Spinner.mjs
 var import_core55 = require("@tamagui/core");
 var React43 = __toESM(require("react"), 1);
 var import_react_native_web14 = __toESM(require_cjs20(), 1);
@@ -42516,7 +42516,7 @@ var Spinner = YStack.extractable((0, import_core55.themeable)(React43.forwardRef
   componentName: "Spinner"
 }));
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/TextArea.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/TextArea.mjs
 var import_core56 = require("@tamagui/core");
 var import_react56 = require("react");
 var import_jsx_runtime62 = require("react/jsx-runtime");
@@ -42551,7 +42551,7 @@ var TextArea = TextAreaFrame.styleable((propsIn, forwardedRef) => {
   });
 });
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/views/Text.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/views/Text.mjs
 var import_core57 = require("@tamagui/core");
 var Text3 = (0, import_core57.styled)(import_core57.Text, {
   variants: {
@@ -42566,7 +42566,7 @@ var Text3 = (0, import_core57.styled)(import_core57.Text, {
   }
 });
 
-// node_modules/.pnpm/tamagui@1.98.1_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+core@7.24.5_@babel+p_vzqokfgg74jon7voiiu46qiw7a/node_modules/tamagui/dist/esm/index.mjs
+// node_modules/.pnpm/tamagui@1.98.1_@types+react@18.3.2_react-dom@18.2.0_react@18.2.0__react-native@0.74.1_@babel+_x4xhq4iwob3b5b7ucutbxliqci/node_modules/tamagui/dist/esm/index.mjs
 var import_core58 = require("@tamagui/core");
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
