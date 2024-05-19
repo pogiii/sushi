@@ -17,10 +17,6 @@ export const IconedInput = forwardRef<TextInput>((props: IconedInputProps, ref):
 
     const { iconBefore, iconAfter } = props;
 
-    if (!(iconBefore && iconAfter)) {
-        console.warn("The iconBefore and the iconAfter props are empty, use tamagui Input component instead.")
-    }
-
     const IconedInputFrame = styled(XStack, {
         name: "Input",
         backgroundColor: "$background",

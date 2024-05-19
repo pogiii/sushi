@@ -1,0 +1,33 @@
+---
+title: Stepper
+---
+
+import { useRef } from "react"
+import { Stepper } from "../../registery/layouts"
+import ComponentShowcase from "../../components/ComponentShowcase"
+
+# Stepper
+
+export const StepperExample = () => {
+
+    const ref = useRef()
+
+    return (
+        <ComponentShowcase>
+            <Stepper ref={ref} height={"812px"} width={"375px"}>
+                <Stepper.View height={"812px"} background={"red"}>
+                    <Stepper.ScrollButton targetPage={1}>Next</Stepper.ScrollButton>
+                </Stepper.View>
+                <Stepper.View height={"812px"} background={"green"}>
+                    <Stepper.ScrollButton targetPage={2}>Next</Stepper.ScrollButton>
+                    <Stepper.ScrollButton targetPage={0}>Prev</Stepper.ScrollButton>
+                </Stepper.View>
+                <Stepper.View height={"812px"} background={"blue"}>
+                    <Stepper.ScrollButton targetPage={1}>Prev</Stepper.ScrollButton>
+                </Stepper.View>
+            </Stepper>
+        </ComponentShowcase>
+    )
+}
+
+<StepperExample/>
