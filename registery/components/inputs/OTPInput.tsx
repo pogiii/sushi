@@ -54,7 +54,7 @@ export const OTPInput = (props: OTPInputProps) => {
             <YStack>
                 <XStack gap={"$4"}>
                     {[...Array(props.length)].map((_, i) => (
-                        <OTPNumberInput value={valueArray[i]} autoFocus={focusArray[i]} onChangeText={(e) => { focusOnNextInput(e, i) }} textAlign="center" maxLength={1} key={i} />
+                        <OTPNumberInput inputMode={'numeric'} value={valueArray[i]} autoFocus={focusArray[i]} onChangeText={(e) => { focusOnNextInput(e, i) }} textAlign="center" maxLength={1} key={i} />
                     ))}
                 </XStack>
             </YStack>
