@@ -10,6 +10,7 @@ export const OTPInput = (props: OTPInputProps) => {
         width: "$4"
     })
 
+    // Might improve states later.
     const [focusArray, setFocusArray] = useState<boolean[]>(new Array(props.length).fill(false));
     const [valueArray, setValueArray] = useState<number[]>(new Array(props.length));
 
