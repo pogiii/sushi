@@ -3,7 +3,7 @@ title: Stepper
 ---
 
 import { useRef } from "react"
-import { XStack, Text } from "tamagui"
+import { XStack, Text, Button } from "tamagui"
 import { Stepper } from "../../registery/layouts"
 import ComponentShowcase from "../../components/ComponentShowcase"
 
@@ -18,18 +18,20 @@ export const StepperExample = () => {
             <Stepper ref={ref} height={"812px"} width={"375px"}>
                 <Stepper.View height={"812px"} background={"red"} justifyContent={"center"} alignItems={"center"}>
                     <Text>First Page</Text>
-                    <Stepper.ScrollButton targetPage={1}>Next</Stepper.ScrollButton>
+                    <Stepper.Trigger targetPage={1}>
+                    <Button>Next</Button>
+                    </Stepper.Trigger>
                 </Stepper.View>
                 <Stepper.View height={"812px"} background={"green"} justifyContent={"center"} alignItems={"center"}>
                     <Text>Second Page</Text>
                    <XStack gap={8}>
-                    <Stepper.ScrollButton targetPage={0}>Prev</Stepper.ScrollButton>
-                    <Stepper.ScrollButton targetPage={2}>Next</Stepper.ScrollButton>
+                    <Stepper.Trigger targetPage={0}><Button>Prev</Button></Stepper.Trigger>
+                    <Stepper.Trigger targetPage={2}><Button>Next</Button></Stepper.Trigger>
                    </XStack>
                 </Stepper.View>
                 <Stepper.View height={"812px"} background={"blue"} justifyContent={"center"} alignItems={"center"}>
                     <Text>Third Page</Text>
-                    <Stepper.ScrollButton targetPage={1}>Prev</Stepper.ScrollButton>
+                    <Stepper.Trigger targetPage={1}><Button>Prev</Button></Stepper.Trigger>
                 </Stepper.View>
             </Stepper>
         </ComponentShowcase>

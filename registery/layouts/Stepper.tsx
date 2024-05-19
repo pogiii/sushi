@@ -13,6 +13,7 @@ const Stepper = (props: StepperProps): JSX.Element => {
 
     const { width, height, children } = props;
     const ref = useRef();
+
     return (
         <ScrollView
             ref={ref}
@@ -37,6 +38,7 @@ const Stepper = (props: StepperProps): JSX.Element => {
     );
 }
 
+
 type StepperViewProps = ComponentProps<typeof View>
 
 Stepper.View = (props: StepperViewProps) => {
@@ -50,11 +52,11 @@ Stepper.View = (props: StepperViewProps) => {
     )
 }
 
-type StepperButtonProps = ComponentProps<typeof Button> & {
+type StepperTriggerProps = ComponentProps<typeof View> & {
     targetPage: number
 };
 
-Stepper.ScrollButton = (props: StepperButtonProps): JSX.Element => {
+Stepper.Trigger = (props: StepperTriggerProps): JSX.Element => {
 
     const stepperContext = useContext(StepperContext);
     const scrollToTarget = () => {
@@ -72,7 +74,7 @@ Stepper.ScrollButton = (props: StepperButtonProps): JSX.Element => {
     }
 
     return (
-        <Button onPress={() => {scrollToTarget()}} {...props}></Button>
+        <View onPress={() => {scrollToTarget()}} {...props}></View>
     )
 }
 
