@@ -12,35 +12,39 @@ export const OTPInput = (props: OTPInputProps) => {
 
     // Might improve states later.
     const [focusArray, setFocusArray] = useState<boolean[]>(new Array(props.length).fill(false));
-    const [valueArray, setValueArray] = useState<number[]>(new Array(props.length));
+    const [valueArray, setValueArray] = useState<string[]>(new Array(props.length));
 
 
     // For some reason using this approach to move the focus forces me to keep a values array.
-    const focusOnNextInput = (e: number, i: number): void => {
+    const focusOnNextInput = (e: string, i: number): void => {
         const _focusArray = [...focusArray];
         const _valueArray = [...valueArray];
         const next = i + 1;
 
-        _valueArray[i] = e;
-
-        setValueArray(_valueArray);
-
-        if (String(e) === '') {
-            _focusArray[i] = true;
+        if (!_focusArray[next]) {
+            console.log('h')
+            _focusArray.fill(false);
             setFocusArray(_focusArray);
+        }
+
+        if (e.length === 0) {
+            _focusArray.fill(false);
+            _focusArray[i] = true;
+            _valueArray[i] = e;
+            setFocusArray(_focusArray);
+            setValueArray(_valueArray);
+
             return;
         }
 
-        console.log(e, "no")
-
-        if (_focusArray[next] === undefined) {
-            setFocusArray(new Array(props.length).fill(false));
+        if (isNaN(Number(e))) {
             return;
         }
 
-        _focusArray[i] = false;
+        _valueArray[i] = e;
         _focusArray[next] = true;
 
+        setValueArray(_valueArray);
         setFocusArray(_focusArray);
 
     }
