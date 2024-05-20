@@ -69,6 +69,9 @@ module.exports = function () {
     ],
     experimental: {
       scrollRestoration: true,
+    },
+    images: {
+      unoptimized: true
     }
   }
 
