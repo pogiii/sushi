@@ -67,8 +67,8 @@ type InputIconProps = {
     icon: ComponentProps<typeof Icon>
 }
 
+// I'm debating with myself if the ref should be forwarded.
 const InputIcon = (props: InputIconProps): JSX.Element => {
-
     const { icon } = props
 
     return <View background={"$borderColor"} justifyContent="center" alignItems="center" height={"$4"} width={'$4'}>{icon}</View>
