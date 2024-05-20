@@ -2,31 +2,52 @@
 title: Forms
 ---
 
-import { LabeledInput, IconedInput, OTPInput } from "../../registery/components/inputs"
+import { Input, OTPInput } from "../../registery/components/inputs"
 import ComponentShowcase from "../../components/ComponentShowcase"
 import { Star, User } from "@tamagui/lucide-icons"
 
 # Forms
 
-### Input with label
+## Tamagui's Basic Input
 <ComponentShowcase>
-<LabeledInput id="labeled-input" label="Labeled Input"/>
+<Input placeholder="Placeholder"></Input>
 </ComponentShowcase>
 
-### Input with Icon
-##### Input with Icon before
+## Iconed Input
+#### Icon on the left
 <ComponentShowcase>
-<IconedInput iconBefore={<Star/>} id="labeled-input" label="Labeled Input"/>
+<Input>
+    <Input.Icon icon={<Star/>}/>
+    <Input.Field placeholder="Placeholder"/>
+</Input>
 </ComponentShowcase>
-##### Input with Icon After
+
+#### Icon on the right
 <ComponentShowcase>
-<IconedInput iconAfter={<User/>} id="labeled-input" label="Labeled Input"/>
+<Input>
+    <Input.Field placeholder="Placeholder"/>
+    <Input.Icon icon={<User/>}/>
+</Input>
 </ComponentShowcase>
-##### Input with Icon Both sides
+
+## Buttoned Input
+#### Button on the left
 <ComponentShowcase>
-<IconedInput iconBefore={<Star/>} iconAfter={<User/>} id="labeled-input" label="Labeled Input"/>
+<Input>
+    <Input.Field placeholder="Placeholder"/>
+    <Input.Button>Submit</Input.Button>
+</Input>
 </ComponentShowcase>
-### OTP Input
+
+#### Button on the right
+<ComponentShowcase>
+<Input>
+    <Input.Button>Submit</Input.Button>
+    <Input.Field placeholder="Placeholder"/>
+</Input>
+</ComponentShowcase>
+
+## OTP Input
 <ComponentShowcase>
 <OTPInput length={4}/>
 </ComponentShowcase>
