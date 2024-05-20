@@ -69,7 +69,7 @@ module.exports = function () {
     ],
     experimental: {
       scrollRestoration: true,
-    },
+    }
   }
 
   for (const plugin of plugins) {
