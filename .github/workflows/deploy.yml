@@ -7,7 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    continue-on-error: true
     
     steps:
       - name: Checkout 🛎️
@@ -32,11 +31,14 @@ jobs:
         run: echo "BASE_PATH=/$(echo $GITHUB_REPOSITORY | cut -d '/' -f 2)" >> $GITHUB_ENV
 
       - name: Build my App
-        run: pnpm build && pnpm export
+        run: pnpm build
+
+      - name: Export my App
+        run: pnpm export
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.6.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.POGIII_TOKEN }}
           branch: public # The branch the action should deploy to.
           folder: out # The folder the action should deploy to.
