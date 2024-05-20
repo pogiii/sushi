@@ -41,7 +41,7 @@ const plugins = [
     // config: '../../packages/config/src/tamagui.config.ts',
     components: ['tamagui'],
     importsWhitelist: ['constants.js', 'colors.js'],
-    outputCSS: process.env.NODE_ENV === 'production' ? './public/tamagui.css' : null,
+    // outputCSS: process.env.NODE_ENV === 'production' ? './public/tamagui.css' : null,
     logTimings: true,
     disableExtraction,
     shouldExtract: (path) => {
