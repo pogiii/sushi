@@ -1,81 +1,85 @@
-import { ComponentProps, createContext, forwardRef, use, useContext, useRef } from "react";
-import { Button, ScrollView, styled, View } from "tamagui";
+import { Children, createContext, Ref, RefObject, useContext, useRef, useState } from "react"
+import { LayoutChangeEvent, ScrollView as ScrollViewNative} from "react-native"
+import { ScrollView, styled, View } from "tamagui"
+import type { ScrollViewProps, ViewProps } from "tamagui"
 
-type StepperProps = {
-    width: string,
-    height: string,
-    children: React.ReactNode,
-};
+type StepperContextObject = Pick<ScrollViewNative, "scrollTo"> & {
+    layout: LayoutChangeEvent
+} | null
 
-const StepperContext = createContext(null);
+const StepperContext = createContext<StepperContextObject>(null);
 
-const Stepper = (props: StepperProps): JSX.Element => {
+type StepperProps = Pick<ScrollViewProps, "height" | "width" | "children">
 
-    const { width, height, children } = props;
-    const ref = useRef();
+export const Stepper = (props: StepperProps) => {
+
+    const ref = useRef<ScrollViewNative>(null)
+    const { height, width, children } = props;
+    const [layoutEvent, setLayoutEvent] = useState<LayoutChangeEvent>();
 
     return (
-        <ScrollView
-            ref={ref}
-            scrollEnabled={false}
-            alwaysBounceVertical
-            horizontal
-            minWidth={width}
-            minHeight={height}
-            maxHeight={height}
-            maxWidth={width}
-            flexWrap="wrap"
-            flexGrow={0}
-            flexShrink={0}
-            flexBasis={"100%"}
-            flexDirection="column"
-            alignItems="stretch"
+        <ScrollView 
+        onLayout={(e) => { setLayoutEvent(e) }} 
+        width={width} 
+        height={height} 
+        ref={ref}
+        horizontal
+        alignItems="stretch"
+        justifyContent="flex-start"
+        flexBasis={"100%"}
+        flexGrow={0}
+        flexShrink={0}
+        flexWrap="wrap"
+        scrollEnabled={false}
         >
-            <StepperContext.Provider value={ref}>
+            <StepperContext.Provider value={{scrollTo: ref.current?.scrollTo!, layout: layoutEvent!}}>
                 {children}
             </StepperContext.Provider>
         </ScrollView>
-    );
-}
-
-
-type StepperViewProps = ComponentProps<typeof View>
-
-Stepper.View = (props: StepperViewProps) => {
-
-    const { children } = props;
-
-    return (
-        <View width={"100%"} {...props}>
-            {children}
-        </View>
     )
 }
 
-type StepperTriggerProps = ComponentProps<typeof View> & {
+Stepper.Page = (props: ViewProps) => {
+
+    const context = useContext(StepperContext)
+    const width = context?.layout?.nativeEvent?.layout?.width ?? "100%"
+    const Page = styled(View, {
+        width: width
+    })
+
+    return (
+        <Page {...props}></Page>
+    )
+}
+
+type StepperTriggerProps = Pick<ViewProps, "children"> & {
+    disabled?: boolean
     targetPage: number
-};
+}
 
-Stepper.Trigger = (props: StepperTriggerProps): JSX.Element => {
+Stepper.Trigger = (props: StepperTriggerProps) => {
 
-    const stepperContext = useContext(StepperContext);
-    const scrollToTarget = () => {
-        if (!stepperContext.current) {
-            return;
-        }
+    const context = useContext(StepperContext);
+    const {children, disabled, targetPage} = props;
 
-        const width = stepperContext.current?.offsetWidth;
-        
-        stepperContext.current.scrollTo({
+    const scrollToPage = (target: number): void => {
+        context?.scrollTo({
             y: 0,
-            x: props.targetPage * width,
+            // This needs to be refactoed to be way nicer.
+            x: target * context.layout.nativeEvent.layout.width,
             animated: true
         })
     }
 
+    const handleOnPress = () => {
+        if (!disabled && context?.layout !== null && context?.scrollTo !== null) {
+            scrollToPage(targetPage);
+        }
+    }
+
     return (
-        <View onPress={() => {scrollToTarget()}} {...props}></View>
+        <View onPress={handleOnPress}>
+            {children}
+        </View>
     )
 }
-
-export { Stepper }
